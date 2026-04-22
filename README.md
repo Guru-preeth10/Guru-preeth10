@@ -13,9 +13,9 @@ Always learning, building, and shipping projects — one commit at a time. ⚡
 
 ![Gurupreeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guru-preeth10&show_icons=true&theme=tokyonight)
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>🔥 GitHub Streak</h2>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Guru-preeth10&theme=tokyonight&no-frame=true&margin-w=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=Guru-preeth10&theme=tokyonight)
 
 <h2>🎯 What I'm Currently Exploring</h2>
 <ul>
